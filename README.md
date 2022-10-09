@@ -1,6 +1,6 @@
 ## VSOCODE SETTING FOR BEST VIDEO RECORDING
 
-- .vscode/setting.json:
+- .vscode/settings.json:
 
 ```json
 {
