@@ -4,9 +4,11 @@
 
 ```json
 {
+    "workbench.colorTheme": "Cobalt2",
+    "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
     "editor.fontSize": 14,
-    "editor.lineHeight": 22,
-    "window.zoomLevel": 4,
+    "editor.lineHeight": 18,
+    "window.zoomLevel": 5,
     "editor.formatOnSave": true,
     "editor.minimap.enabled": false,
     "editor.lineNumbers": "off",
@@ -19,6 +21,14 @@
     "autoHide.sideBarDelay": 5,
     "workbench.activityBar.visible": false,
     "workbench.statusBar.visible": false,
+    "editor.folding": false,
+    "editor.letterSpacing": 0.5,
+    "files.trimTrailingWhitespace": true,
+    "editor.fontWeight": "400",
+    "prettier.eslintIntegration": true,
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 5,
+    "editor.cursorBlinking": "solid",
     "editor.scrollbar.verticalScrollbarSize": 0,
     "files.exclude": {
         ".vscode": true,
