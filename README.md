@@ -29,6 +29,7 @@
     "editor.cursorStyle": "line",
     "editor.cursorWidth": 5,
     "editor.cursorBlinking": "solid",
+    "update.mode": "none",
     "editor.scrollbar.verticalScrollbarSize": 0,
     "files.exclude": {
         ".vscode": true,
